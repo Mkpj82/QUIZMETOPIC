@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321475913955",
+    "project_id": "ouiz-5e6ff",
+    "storage_bucket": "ouiz-5e6ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321475913955:android:ecfd7b642bcf3ec83ebdd6",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321475913955-qm0qtkbm50dhh7gn4jclb5jrsrc2h6s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58ofLWbqcnLmrm8yMwYnxQE0MLX7ZYl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321475913955-qm0qtkbm50dhh7gn4jclb5jrsrc2h6s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
